@@ -92,14 +92,6 @@ img {
 
 
 
-.header__logo {}
-
-
-
-.header__nav {}
-
-
-
 .header__list {
   display: flex;
   gap: 30px;
@@ -122,7 +114,6 @@ img {
   opacity: 0.9;
 }
 
-.main {}
 
 /* Приветствие */
 
@@ -341,7 +332,6 @@ img {
   max-width: 880px;
 }
 
-.feedback__img {}
 
 .feedback__text {
   margin: 0;
@@ -391,7 +381,6 @@ img {
   font-size: 40px;
 }
 
-.btn {}
 
 /* Подвал */
 
@@ -468,15 +457,6 @@ img {
 
 
 
-.footer__link-mail {}
-
-
-
-.footer__link-web {}
-
-
-
-.footer__nav {}
 
 
 
@@ -488,26 +468,10 @@ img {
 
 
 
-
-.footer__list-title {}
-
-
-
-.footer__inner-list {}
-
-
-
 .footer__list-item+.footer__list-item {
   margin-top: 15px;
 }
 
-
-
-.footer__socials {}
-
-
-
-.footer__socials-icons {}
 
 
 
@@ -667,8 +631,6 @@ img {
     padding-bottom: 80px;
   }
 
-
-  .welcome__subtitle {}
 
   .welcome__title {
     font-size: 30px;
